@@ -1,6 +1,6 @@
 
-const supabaseUrl = 'host=db.bajaparzdhhzihujqyyc.supabase.co'; 
-const supabaseKey = 'Jasin04diaz4';
+const supabaseUrl = 'https://bajaparzdhhzihujqyyc.supabase.co'; 
+const supabaseKey = 'sb_publishable_u7vKoIMHQ-6TtWGTLyO3Nw_TM2vBfqJ';
 // 2. Creamos el cliente UNA SOLA VEZ y de forma global
 let supabaseClient = null;
 
